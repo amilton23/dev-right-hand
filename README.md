@@ -226,3 +226,4 @@ Use a layered approach:
 
 - [Architecture](docs/architecture.md)
 - [Roadmap](docs/roadmap.md)
+- [Python Files Technical Reference](docs/python-files-technical-reference.md)

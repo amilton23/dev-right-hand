@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [
-  { name = "Amilton" }
+  { name = "Amilton Cardoso", email = "amiltoncofh@gmail.com" }
 ]
 dependencies = [
   "pydantic>=2.7,<3.0",
